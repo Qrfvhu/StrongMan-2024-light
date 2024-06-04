@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\src\\components\\userData.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\userData.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\src\\mock\\mockPart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\mock\\mockPart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\src\\mock\\mockPartMenu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\mock\\mockPartMenu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\src\\mock\\mockUser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\mock\\mockUser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\src\\views\\goods\\add\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\goods\\add\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "userData.js",
+              "DocumentMoniker": "C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\src\\components\\userData.js",
+              "RelativeDocumentMoniker": "src\\components\\userData.js",
+              "ToolTip": "C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\src\\components\\userData.js",
+              "RelativeToolTip": "src\\components\\userData.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T12:46:30.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mockPart.js",
+              "DocumentMoniker": "C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\src\\mock\\mockPart.js",
+              "RelativeDocumentMoniker": "src\\mock\\mockPart.js",
+              "ToolTip": "C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\src\\mock\\mockPart.js",
+              "RelativeToolTip": "src\\mock\\mockPart.js",
+              "ViewState": "AQIAADYAAABA//////8pwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T12:46:24.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mockPartMenu.js",
+              "DocumentMoniker": "C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\src\\mock\\mockPartMenu.js",
+              "RelativeDocumentMoniker": "src\\mock\\mockPartMenu.js",
+              "ToolTip": "C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\src\\mock\\mockPartMenu.js",
+              "RelativeToolTip": "src\\mock\\mockPartMenu.js",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T12:46:21.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mockUser.js",
+              "DocumentMoniker": "C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\src\\mock\\mockUser.js",
+              "RelativeDocumentMoniker": "src\\mock\\mockUser.js",
+              "ToolTip": "C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\src\\mock\\mockUser.js",
+              "RelativeToolTip": "src\\mock\\mockUser.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T12:45:50.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\src\\views\\goods\\add\\index.js",
+              "RelativeDocumentMoniker": "src\\views\\goods\\add\\index.js",
+              "ToolTip": "C:\\Users\\HB0088\\Documents\\WeChat Files\\wxid_i7319mrzfu8e32\\FileStorage\\File\\2024-06\\\u7B2C\u4E09\u6B21\u4F5C\u4E1A-\u738B\u601D\u680B-21301081\\lightweight---homework-3-master\\src\\views\\goods\\add\\index.js",
+              "RelativeToolTip": "src\\views\\goods\\add\\index.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T12:45:45.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

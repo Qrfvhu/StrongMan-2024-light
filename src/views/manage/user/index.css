@@ -1,0 +1,95 @@
+.header {
+    width: 100%;
+    height: 12vh;
+}
+
+.header-left {
+    float: left;
+    font-size: 17px;
+    margin: 10px 5px 10px 0;
+}
+
+.search-input{
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.header-right {
+    float: right;
+}
+
+.button {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.label {
+    width: 100%;
+    height: 5vh;
+    font-size: 17px;
+    margin: 10px 5px 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list {
+    width: 100%;
+}
+
+.custom-modal .ant-modal-content {
+    border-radius: 8px; /* 圆角边框 */
+}
+
+.custom-modal .ant-modal-header {
+    background-color: #f0f2f5; /* 头部背景色 */
+    border-bottom: 1px solid #d9d9d9; /* 头部边框 */
+}
+
+.custom-modal .ant-modal-title {
+    color: #1890ff; /* 标题颜色 */
+    font-weight: bold; /* 标题加粗 */
+}
+
+.custom-modal .ant-modal-footer {
+    border-top: 1px solid #d9d9d9; /* 底部边框 */
+}
+
+.custom-input {
+    width: 300px; /* 输入框宽度 */
+}
+
+.centered-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.centered-form .ant-form-item {
+    width: 100%; /* 使表单项宽度与输入框一致 */
+}
+
+.centered-form .ant-form-item-label {
+    justify-content: flex-end; /* 右对齐标签 */
+}
+
+.custom-modal .ant-form-item {
+    margin-bottom: 16px; /* 表单项底部边距 */
+}
+
+.custom-modal .ant-modal-body {
+    padding: 24px; /* 内容区域内边距 */
+}
+
+.custom-modal .ant-btn-primary {
+    background-color: #1890ff; /* 主按钮背景色 */
+    border-color: #1890ff; /* 主按钮边框色 */
+}
+
+.custom-modal .ant-btn-primary:hover {
+    background-color: #40a9ff; /* 主按钮悬停背景色 */
+    border-color: #40a9ff; /* 主按钮悬停边框色 */
+}
+
+

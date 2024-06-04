@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\mock",
+    "\\src\\router",
+    "\\src\\views",
+    "\\src\\views\\goods",
+    "\\src\\views\\goods\\add"
+  ],
+  "SelectedNode": "\\src\\components\\userData.js",
+  "PreviewInSolutionExplorer": false
+}

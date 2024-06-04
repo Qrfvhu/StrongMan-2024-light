@@ -1,0 +1,19 @@
+.app-container {
+    width: 50%;
+    height: 80%;
+    border: 2px solid #ccc; /* 边框为浅灰色 */
+    border-radius: 5px; /* 圆角边框 */
+    padding: 20px; /* 内边距 */
+    margin-left: 5%; /* 上下为10%，左右自动居中 */
+}
+
+.button-container {
+    display: flex;
+    justify-content: center; /* 水平居中 */
+    margin-top: 20px; /* 上方间距为20px */
+}
+
+.button-container > Button {
+    margin-right: 20px; /* 按钮之间的右边距为20px */
+}
+
